@@ -1,2 +1,2 @@
 # LeetCode 75
-Solved LeetCode 75 questions
+Solved LeetCode 75 questions sheet
