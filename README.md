@@ -8,3 +8,4 @@ Topics covered :
 4. Prefix sum
 5. Hashing (Map and Set)
 6. Stack
+7. Queue
