@@ -9,4 +9,4 @@ Topics covered :
 5. Hashing (Map and Set)
 6. Stack
 7. Queue
-8. Tree
+8. Trees
